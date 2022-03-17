@@ -9,6 +9,9 @@ function App() {
 
   return (
     <div className="App">
+      <h1>
+        Testing new git strat
+      </h1>
       {msg}
       <input onChange={onChange} />
     </div>
