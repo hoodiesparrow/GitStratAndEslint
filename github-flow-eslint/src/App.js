@@ -11,10 +11,6 @@ function App() {
   // 333
   // 222
   // 444
-  // 555
-  // 666
-
-  // something useful
 
   return (
     <div className="App">
